@@ -1,5 +1,7 @@
 # GestureUIImageView
 
+[![Join the chat at https://gitter.im/fuji2013/GestureUIImageView](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fuji2013/GestureUIImageView?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 When you display a UIImageView,
 You can not enlarge the image in a pinch, there are things you want to move by dragging.
 Also, bring to center by dragging the good look like part,
